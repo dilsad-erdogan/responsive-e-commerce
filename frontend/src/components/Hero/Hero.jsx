@@ -54,7 +54,7 @@ const Hero = () => {
                                     <div className="flex flex-col justify-center gap-4 sm:pl-3 pt-12 sm:pt-0 text-center sm:text-left order-2 sm:order-1 relative z-10">
                                         <h1 className="text-2xl sm:text-6xl lg:text-2xl font-bold">{data.subtitle}</h1>
                                         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold">{data.title}</h1>
-                                        <h1 className="text-5xl uppercase text-white dark:text-white/5 sm:text-[80px] md:text-[100px] xl:text-[150px] font-bold">{data.title2}</h1>
+                                        <h1 className="text-5xl uppercase text-gray-300/80 dark:text-white/5 sm:text-[80px] md:text-[100px] xl:text-[150px] font-bold">{data.title2}</h1>
                                         <div>
                                             <Button text="Shop By Category" bgColor="bg-primary" textColor="text-white"/>
                                         </div>
