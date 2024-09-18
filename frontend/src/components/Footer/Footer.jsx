@@ -32,7 +32,7 @@ const Footer = () => {
                 <div className="py-8 px-4">
                     <a href="#" className="text-primary font-semibold tracking-widest text-2xl uppercase sm:text-3xl">Eshop</a>
                     <p className="text-gray-600 lg:pr-24 pt-3 dark:text-white/70">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores alias cum</p>
-                    <p className="text-gray-500 mt-4 dark:text-white/70">Made with 💕 by The Coding Journey</p>
+                    <p className="text-gray-500 mt-4 dark:text-white/70">Made with 💕 by The Dilşad Rukiye Erdoğan</p>
                     <a href="https://www.linkedin.com/in/dilşad-erdoğan-089547221/" target="_blank" className="inline-block bg-primary/90 text-white py-2 px-4 mt-4 text-sm rounded-full">Visit my Linkedin Profile</a>
                     <a href="https://github.com/dilsad-erdogan" target="_blank" className="inline-block bg-primary/90 text-white py-2 px-4 mt-4 ml-2 text-sm rounded-full">Visit my Github Profile</a>
                 </div>
